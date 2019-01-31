@@ -1,0 +1,21 @@
+.mui-control-content {
+	display: block;
+	overflow-y: auto;
+	height: 100%;
+}
+.mui-segmented-control .mui-control-item {
+	line-height: 50px;
+	width: 100%;
+} 
+.mui-table-view-cell{
+	padding:18px 10px;
+}
+
+
+
+
+
+
+
+
+
